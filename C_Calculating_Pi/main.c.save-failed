@@ -32,8 +32,8 @@ void calculation(void)
 {
     for (i = 0; i <= 10; i++)
     {
-        dPi4 = 1.0 - 1.0/(3+i*4) + 1.0/(5+i*4);
-        dPi4 = dPi4 * 4;
+        dPi4 = dPi4 - 1.0/(3+i*4) + 1.0/(5+i*4);
+        //dPi4 = dPi4 * 4;
         printf("Pi = %f\n\n", *pointer);
     }
 }
