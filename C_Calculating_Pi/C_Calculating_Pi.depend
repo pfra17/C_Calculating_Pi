@@ -1,5 +1,9 @@
 # depslib dependency file v1.0
-1554572720 source:c:\users\frase\google drive\juventus_technikerschule\programmieren\c_calculating_pi\c_calculating_pi\main.c
+<<<<<<< HEAD
+1554637761 source:c:\users\frase\google drive\juventus_technikerschule\programmieren\c_calculating_pi\c_calculating_pi\main.c
+=======
+1554575824 source:c:\users\frase\google drive\juventus_technikerschule\programmieren\c_calculating_pi\c_calculating_pi\main.c
+>>>>>>> 32fe940d381cf726af0781fb6127a5b2b5c1b1fb
 	<stdio.h>
 	<stdlib.h>
 
